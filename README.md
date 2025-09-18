@@ -2,10 +2,8 @@
 
 G'day. 👦🏽
 
-I'm an Aussie IT consultant. I help businesses find a clear path through their information management & software dev journeys.
+I'm an Aussie system architect and consulting CIO, with a tech background in Microsoft technolgies includign Azure, MS 365, Dynamics 365, and Power Platform.
 
-I have 25 years experience planning/building: web apps, integrations, intranets, websites + ecommerce, IT + cloud infra, etc.
-
-My educational background is in MIS. I mostly have experience in MS tools: MS 365, Dynamics 365, .net, Azure, TS, Umbraco, etc.
+I like to help organisations find a clear path through their information management & software development journeys.
 
 [ali.id.au](https://www.ali.id.au/) for links, socials, professional profile, etc.
